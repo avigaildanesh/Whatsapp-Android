@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ex3</string>
+    <string name="error_invalid_username">Enter a valid username</string>
+    <string name="error_weak_password">Password must be at least 8 characters long and contain at least one letter and one digit</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_empty_display_name">Enter a display name</string>
+    <string name="error_same_username_display_name">display name cannot be the same as the user name</string>
+    <string name="success_registration">Registration successful!</string>
+    <string name="BaseUrl">http://10.0.2.2:5000/api/</string>
+    <string name="not_registered_register_here">Not registered? Register here</string>
+    <string name="registration_failed">Registration failed. Please try again.</string>
+    <string name="please_select_a_profile_picture">Please select a profile picture.</string>
+    <string-array name="colors">
+        <item> default</item>
+        <item> white </item>
+        <item> black </item>
+    </string-array>
+
+</resources>
